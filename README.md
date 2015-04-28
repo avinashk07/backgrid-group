@@ -1,3 +1,3 @@
 # Backgrid Column Grouping
 
-Grouping of columns based on column names in a Backgrid table.
+Group by multiple columns in a Backgrid table.
